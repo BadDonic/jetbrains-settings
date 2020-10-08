@@ -5,6 +5,10 @@
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SaveAll" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
