@@ -1,6 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="supportedLanguages.ts" type="AUTO_DETECTED" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern="xhtml" type="XHTML" />
       <mapping ext="vm" type="XHTML" />
