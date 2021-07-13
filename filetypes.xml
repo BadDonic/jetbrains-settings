@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="supportedLanguages.ts" type="AUTO_DETECTED" />
+      <mapping pattern=".ci_config" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern="xhtml" type="XHTML" />
       <mapping ext="vm" type="XHTML" />
